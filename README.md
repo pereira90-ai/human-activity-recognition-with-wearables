@@ -1,4 +1,4 @@
-# Human-Activity-Recognition-with-Wearable-Devices-and-Machine-Learning.-
+# Human-Activity-Recognition-with-Wearables
 DS 5500 project (Capstone)
 
 Summary:
